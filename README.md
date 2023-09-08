@@ -44,4 +44,3 @@ We wanted to ensure that our core functionality works properly, so we provided u
 ### Scrum
 
 The whole process of our app development was tracked on the project management tool ClickUp 👆. Each week we had a meeting for sprint planning with our "Scrum master" where we agreed on goals for the next sprint. Each sprint was evaluated by definition of done and internally reviewed and retrospected by our development team.
- #
